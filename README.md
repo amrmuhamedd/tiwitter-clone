@@ -1,4 +1,4 @@
-This project is live [here](https://infallible-spence-e7226b.netlify.app/)
+This project is live [here](https://tiwitterclone.netlify.app/)
 
 I make this websit like tiwitter using react and firbase  <br/>
 you can add post and attatch photo by put link of photo 
